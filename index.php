@@ -4,8 +4,6 @@
     <title>Area & Perimeter of a Rectangle with PHP</title>
   </head>
   <body>
-    <!-- Script -->
-    <script defer src="./js/script.js"></script>
   
     <!-- Header -->
     <h1>Area & Perimeter of a Rectangle with PHP</h1>
